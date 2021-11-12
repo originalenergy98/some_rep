@@ -13,6 +13,9 @@
 * git config --local user.name 
 * git config --local user.email
 
+*После нужно создать локальный репозиторий:*
+* git init
+
 # Создание "сохранений" 
 *Для того, чтобы сохранить наши изменения, нужно добавить их через команду add*
 
@@ -101,7 +104,7 @@
 * git branch -d branch_name
 
     Удаляет ветку с именем branch_name
-    
+
 
 
 
