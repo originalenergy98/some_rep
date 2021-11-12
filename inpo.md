@@ -98,6 +98,11 @@
 
 # Удаление веток
 
+* git branch -d branch_name
+
+    Удаляет ветку с именем branch_name
+    
+
 
 
 
